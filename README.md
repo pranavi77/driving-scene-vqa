@@ -34,12 +34,6 @@ python extract_frames.py
 streamlit run app.py
 ```
 
-## Tech Stack
-- BLIP-VQA for visual question answering
-- Streamlit for UI
-- OpenCV for video processing
-- PyTorch & Transformers
-
 ## Sample Questions
 - "What is the weather condition?"
 - "Is it safe to drive?"
